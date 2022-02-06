@@ -62,7 +62,7 @@ The urban weekly total fare is 9 times higher than rural and about 2.25 times hi
 
 # Summary
 
-Three business recommendations to the CEO for addressing any disparities among the city types.
+Business recommendations to the CEO for addressing any disparities among the city types.
 
 •	PyBer sees a high revenue flow in Urban Cities with cheaper rides attracting more clientele necessitating higher driver use.
 
