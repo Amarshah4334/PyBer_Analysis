@@ -23,10 +23,10 @@ The analysis is based on the following points among the different city types:
 ![alt text](https://github.com/Amarshah4334/PyBer_Analysis/blob/main/Analysis/%25rides_cityt_ype.png)
 
 2.	Total drivers
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/Amarshah4334/PyBer_Analysis/blob/main/Analysis/%25total_drivers_city_type.png)
 
 4.	Total fares
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/Amarshah4334/PyBer_Analysis/blob/main/Analysis/%25total_fares_city_type.png)
 
 6.	Average fare per ride and driver
 ![alt text](http://url/to/img.png)
