@@ -20,9 +20,17 @@ The analysis is based on the following points among the different city types:
 ### Ride-sharing data -
 
 1.	Total rides
-
+![alt text](http://http://localhost:8888/view/Desktop/Analysis%20Folder/Matplotlib/PyBer_Analysis/Analysis/Fig6.png)
 
 2.	Total drivers
-3.	Total fares
-4.	Average fare per ride and driver
-5.	Total fare by city type.
+![alt text](http://url/to/img.png)
+
+4.	Total fares
+![alt text](http://url/to/img.png)
+
+6.	Average fare per ride and driver
+![alt text](http://url/to/img.png)
+
+8.	Total fare by city type.
+![alt text](http://url/to/img.png)
+
