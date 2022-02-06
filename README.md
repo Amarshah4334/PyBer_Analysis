@@ -19,18 +19,23 @@ The analysis is based on the following points among the different city types:
 ## Results: Using images from the summary DataFrame and multiple-line chart, describe the differences in ride-sharing data among the different city types.
 ### Ride-sharing data -
 
-1.	Total rides
+### 1.	Total rides
+
 ![alt text](https://github.com/Amarshah4334/PyBer_Analysis/blob/main/Analysis/%25rides_cityt_ype.png)
 
-2.	Total drivers
+### 2.	Total drivers
+
 ![alt text](https://github.com/Amarshah4334/PyBer_Analysis/blob/main/Analysis/%25total_drivers_city_type.png)
 
-4.	Total fares
+### 3.	Total fares
+
 ![alt text](https://github.com/Amarshah4334/PyBer_Analysis/blob/main/Analysis/%25total_fares_city_type.png)
 
-6.	Average fare per ride and driver
+### 4.	Average fare per ride and driver
+
 ![alt text](http://url/to/img.png)
 
-8.	Total fare by city type.
+### 5.	Total fare by city type.
+
 ![alt text](http://url/to/img.png)
 
