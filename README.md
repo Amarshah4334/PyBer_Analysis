@@ -16,7 +16,7 @@ The analysis is based on the following points among the different city types:
 •	Data Source: city_data.csv, ride_data.csv
 •	Software: Python , Anaconda, Jupyter Notebook 
 
-## Results: Using images from the summary DataFrame and multiple-line chart, describe the differences in ride-sharing data among the different city types.
+## Results: Differences in ride-sharing data among the different city types.
 ### Ride-sharing data -
 
 ### 1.	Total rides
