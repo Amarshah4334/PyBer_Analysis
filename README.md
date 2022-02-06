@@ -20,7 +20,7 @@ The analysis is based on the following points among the different city types:
 ### Ride-sharing data -
 
 1.	Total rides
-![alt text](http://http://localhost:8888/view/Desktop/Analysis%20Folder/Matplotlib/PyBer_Analysis/Analysis/Fig6.png)
+![alt text](https://github.com/Amarshah4334/PyBer_Analysis/blob/main/Analysis/%25rides_cityt_ype.png)
 
 2.	Total drivers
 ![alt text](http://url/to/img.png)
