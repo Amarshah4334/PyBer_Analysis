@@ -65,8 +65,13 @@ The urban weekly total fare is 9 times higher than rural and about 2.25 times hi
 Three business recommendations to the CEO for addressing any disparities among the city types.
 
 •	PyBer sees a high revenue flow in Urban Cities with cheaper rides attracting more clientele necessitating higher driver use.
+
 •	Rural setting sees a loss of revenue for the app with costs being higher to operate causing an undue burden on clients with them paying higher fares ~$10 higher than Urban cities. This could discourage potential drivers from working with PyBer as well as clients from using the service. 
+
 •	Drivers could seek opportunities in urban cities for better salary causing a saturation in driver employment in Urban cities versus a deficit among rural cities.
+
 •	Suburban settings have a potential of becoming a booming business with fares being just slightly higher and the client flow similar to urban setting. Improving drivers and availability can see a better revenue generation in future for the CEO to look at.
+
 •	PyBer rider sharing services significantly differs in rural, suburban, and urban cities given the number of rides, drivers, and fares
+
 •	Further analysis is necessary in order to determine other factors that could be contributing to the high ride costs in rural cities and low fares in urban cities; like socioeconomic factors, cultural bias, travel distance, ease of access etc.
