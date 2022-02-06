@@ -21,6 +21,7 @@ The analysis is based on the following points among the different city types:
 
 ### 1.	Total rides
 Between January 2019 and May 2019, there were 1,625 rides in urban cities, 625 rides in suburban cities, and 125 rides in rural cities
+
 68% of total rides were in Urban setting
 
 
@@ -28,13 +29,14 @@ Between January 2019 and May 2019, there were 1,625 rides in urban cities, 625 r
 
 ### 2.	Total drivers
 There were 2,405 drivers in urban cities, 490 drivers in suburban cities, and 78 drivers in rural cities
+
 86% of total drivers were in Urban setting
 
 ![alt text](https://github.com/Amarshah4334/PyBer_Analysis/blob/main/Analysis/%25total_drivers_city_type.png)
 
 ### 3.	Total fares
 The total fares are higher in Urban than suburban and rural cities. PyBer transactions in urban cities totaled nearly $40,000 whereas transactions in suburban and rural cities were $19,000 and $4,000, respectively.
-tThe result is as a result of the higher use of the facility in Urban setting rather in the remainder 2 city types.
+This is as a result of the higher use of the facility in Urban setting rather in the remainder 2 city types.
 
 
 ![alt text](https://github.com/Amarshah4334/PyBer_Analysis/blob/main/Analysis/%25total_fares_city_type.png)
