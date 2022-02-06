@@ -33,9 +33,9 @@ The analysis is based on the following points among the different city types:
 
 ### 4.	Average fare per ride and driver
 
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/Amarshah4334/PyBer_Analysis/blob/main/Analysis/PyBer_ridesharing.png)
 
 ### 5.	Total fare by city type.
 
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/Amarshah4334/PyBer_Analysis/blob/main/Analysis/PyBer_fare_summary.png)
 
